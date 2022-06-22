@@ -61,7 +61,7 @@
 }
 @media screen and (max-width: 768px) {
   .aboutsiteTips {
-    min-height: 30vh;
+    min-height: 25vh;
   }
   .aboutsiteTips h2 {
     font-size: 36px;

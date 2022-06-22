@@ -284,10 +284,13 @@ button .el-icon {
 }
 /* Element表格 -------------------------------- 结束 */
 
-/* 首页 -----------------------------------------开始 */
+/* 轮播图 -----------------------------------------开始 */
 .swiper-pagination-bullet {
   width: 12px !important;
   height: 12px !important;
+  background: white !important;
+  opacity: 1 !important;
+  border: 1px solid white;
 }
 .swiper-pagination-bullet-active {
   background-color: var(--el-color-primary) !important;
@@ -297,7 +300,7 @@ button .el-icon {
   right: 20px !important;
   top: 33% !important;
 }
-/* 首页 -----------------------------------------结束 */
+/* 轮播图 -----------------------------------------结束 */
 
 /* 403,404 ---------------------------------------开始 */
 .background-403 .el-button > span,
@@ -518,6 +521,11 @@ button .el-icon {
   }
   .el-divider h1 {
     margin: 0;
+  }
+  .swiper-vertical > .swiper-pagination-bullets,
+  .swiper-pagination-vertical.swiper-pagination-bullets {
+    right: 20px !important;
+    top: 168px !important;
   }
 }
 /* 移动端 -----------------------------------------------------------------结束 */

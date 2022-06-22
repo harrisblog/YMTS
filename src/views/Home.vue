@@ -491,7 +491,7 @@ h1 {
     width: 100%;
   }
   .card_goods {
-    height: 240px;
+    height: 246px;
   }
   .card_goods:nth-child(odd) {
     width: calc(50% - 15px);
@@ -503,8 +503,8 @@ h1 {
   }
   .card_goods img,
   .card_goods_img {
-    width: 172.5px;
-    height: 172.5px;
+    width: calc(50vw - 15px);
+    height: 180px;
   }
   .el-affix {
     display: none;
@@ -513,11 +513,10 @@ h1 {
     font-size: 32px;
   }
   .colored_headline {
-    margin-bottom: 50px;
+    margin-bottom: 0;
   }
   .card_goods_name {
     padding: 6px;
-    height: 70px;
     font-size: 14px;
   }
   .card > button,
@@ -527,7 +526,7 @@ h1 {
   }
   .card_offer {
     padding: 10px 8px 6px 8px;
-    height: 240px;
+    height: 232px;
   }
   .card_offer:nth-child(odd) {
     width: calc(50% - 15px);
@@ -537,10 +536,12 @@ h1 {
     width: calc(50% - 15px);
     margin: 0 10px 10px 5px;
   }
-  .card_offer img,
+  .card_offer img {
+    width: calc(50vw - 55px);
+    height: calc(50vw - 55px);
+  }
   .card_offer_logo {
-    width: 156.5px;
-    height: 156.5px;
+    padding: 0 10px;
   }
   .card_offer_school {
     font-size: 18px;

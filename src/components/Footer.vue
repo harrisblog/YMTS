@@ -27,7 +27,6 @@
           :preview-src-list="[require('../assets/img/taobao.png')]"
           fit="cover"
         />
-        <img src="" alt />
       </div>
       <div class="footer-group">
         <h3 align="center" class="footer-title">微信</h3>
@@ -109,9 +108,6 @@ footer {
   flex-wrap: wrap;
   margin-top: 2rem;
   padding: 0 1rem;
-}
-.footer-groups img {
-  width: 150px;
 }
 .footer-group {
   min-width: 120px;
