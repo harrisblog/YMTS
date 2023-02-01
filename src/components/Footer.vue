@@ -48,9 +48,9 @@
           <p class="separator">|</p>
           <p>萌ICP备20210809号</p>
           <p class="separator">|</p>
-          <p>Designed and Developed by HassanWong</p>
-          <!-- <a class="footer-banner-link" href="https://hassanwong.top"
-            >HassanWong</a
+          <p>Designed and Developed by HarrisWong</p>
+          <!-- <a class="footer-banner-link" href="https://blog.harriswong.top"
+            >HarrisWong</a
           > -->
           <!-- <a
             class="footer-banner-link"
