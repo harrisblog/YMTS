@@ -1,4 +1,4 @@
-# ymts_frontend
+# YMTS's official website
 
 ## Project setup
 ```
